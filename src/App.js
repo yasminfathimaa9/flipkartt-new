@@ -8,7 +8,7 @@ import HeaderImg from './HeaderImg';
 import Banner from './Components/Banner';
 import Images2 from './Components/Images2';
 import Content from './Components/Content';
-import Carousel from 'react-material-ui-carousel';
+// import Carousel from 'react-material-ui-carousel';
 function App() {
   return (
     <div className="App">
