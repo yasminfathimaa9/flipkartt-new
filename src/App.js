@@ -5,7 +5,7 @@ import Carousel1  from './Components/Carousel';
 import HeaderImg from './HeaderImg';
 // // import SearchIcon from "@material-ui/icons/SearchRounded";
 // import DownArrow from "@material-ui/icons/ArrowDownwardRounded"
-import Banner from './Components/Banner';
+// import Banner from './Components/Banner';
 import Images2 from './Components/Images2';
 import Content from './Components/Content';
 // import Carousel from 'react-material-ui-carousel';
@@ -47,7 +47,7 @@ function App() {
     <br/>
     </div>
     <div>
-    <Banner />
+    {/* <Banner /> */}
     </div>
 <div className='img1'>
      <Carousel1
